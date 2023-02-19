@@ -12,4 +12,4 @@ approach in the current configuration, do we obtain a solution or not
  b) if placing yields a solution, return true
 4
  c) if placing does not yield a solution, unmark and try other rows
-4. if all rows tried and solution not obtained, return false and backtrac
+4. if all rows tried and solution not obtained, return false and backtrack
